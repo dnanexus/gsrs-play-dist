@@ -206,6 +206,9 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <fork>true</fork>
+                    <jvmArguments>
+                        -Dix.ginas.load.file=/usr/local/tomcat/webapps/substances/WEB-INF/classes/rep18.gsrs
+                    </jvmArguments>
                 </configuration>
             </plugin>
         </plugins>
