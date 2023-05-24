@@ -207,7 +207,7 @@
                 <configuration>
                     <fork>true</fork>
                     <jvmArguments>
-                        -Dix.ginas.load.file=src/test/data/rep18.gsrs
+                        -Dix.ginas.load.file=/usr/local/tomcat/webapps/substances/WEB-INF/classes/rep18.gsrs
                     </jvmArguments>
                 </configuration>
             </plugin>
