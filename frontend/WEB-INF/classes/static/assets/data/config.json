@@ -1,5 +1,5 @@
 {
-  "apiBaseUrl" : "http://localhost:3000/ginas/app/",
+  "apiBaseUrl" : "https://localhost:3000/ginas/app/",
   "version": "3.0.2",
   "contactEmail": "admin@admin.com",
   "customToolbarComponent": "precisionFDA",
