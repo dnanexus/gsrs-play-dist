@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Created-By: Maven Archiver 3.4.0
 Build-Jdk-Spec: 11
 Implementation-Title: gateway
-Implementation-Version: 0.0.1-SNAPSHOT-migrated-1.0.4
+Implementation-Version: 3.0.3-SNAPSHOT-migrated-1.0.7
 Main-Class: org.springframework.boot.loader.WarLauncher
 Start-Class: gsrs.ncats.gateway.GatewayApplication
 Spring-Boot-Version: 2.3.7.RELEASE
