@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: Maven WAR Plugin 3.3.1
+Build-Jdk-Spec: 11
+Implementation-Title: substances
+Implementation-Version: 3.1-migrated-1.0.7
+Main-Class: org.springframework.boot.loader.WarLauncher
+Start-Class: gsrs.ncats.substances.SubstancesApplication
+Spring-Boot-Version: 2.4.5
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+
